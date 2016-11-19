@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
  struct dic{
      char *original;
      char *complementar;
